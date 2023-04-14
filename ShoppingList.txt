@@ -4,3 +4,5 @@ Bananas
 Eggs
 Cereal
 Potato Chips
+Apples
+Broccoli
